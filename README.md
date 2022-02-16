@@ -1,4 +1,4 @@
-# **Project 2: Ames Housing Regression Model**
+# **Ames Housing Regression Model**
 
 ## Problem Statement
 
